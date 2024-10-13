@@ -1,0 +1,17 @@
+#EXTM3U size="big"
+
+#EXTINF:-1 type="video" description="FILMES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRhYmQwMjUtM2NlOC00ZDI1LThkMTgtOTQ3MWQzMWYxMzdiXkEyXkFqcGc@._V1_.jpg" description="HD - 720P"  subtitles="https://drive.google.com/uc?id=1p5NngQL6Evp_pN7Ai_5jUP-efxsGURgW&export=download", El Día de La Bestia (1995)
+#EXTBG: #076343
+https://www.googleapis.com/drive/v3/files/10L6V4TTrV1QCluAt373G_6Aec0dWAi3i?alt=media&key=AIzaSyBPb6bgoQRR84DRZZrq-fGN6dNPTjfX-p0
+
+#EXTINF:-1 type="video" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ac59b82586634bb66b4be6c056f430b69ae0ac327b31f7efe6f69dbec6902bf4.jpg" description="HD - 720P"  subtitles="https://www.googleapis.com/drive/v3/files/1UL2C80N5xl72TNl6Riv2gdAAgiAhJKH9?alt=media&key=AIzaSyBPb6bgoQRR84DRZZrq-fGN6dNPTjfX-p0", Possession (1981)
+#EXTSIZE: Medium
+#EXTBG: #774343
+https://drive.google.com/uc?id=1MpWNI4rFZInhyVburK2bsi_B9x6BMzBh&export=download
+https://www.googleapis.com/drive/v3/files/1MpWNI4rFZInhyVburK2bsi_B9x6BMzBh?alt=media&key=AIzaSyBPb6bgoQRR84DRZZrq-fGN6dNPTjfX-p0
+
+https://www.googleapis.com/drive/v3/files/COLOCA O ID DO ARQUIVO AQUI?alt=media&key=AIzaSyBPb6bgoQRR84DRZZrq-fGN6dNPTjfX-p0
+
+http://dl.dropboxusercontent.com/scl/fi/kjoke6pm5fpjuphmyyupt/Jornada-de-Cine-Online-El-D-a-De-La-Bestia-1995-Alex-de-La-Iglesia.srt
+
+https://drive.google.com/file/d/1p5NngQL6Evp_pN7Ai_5jUP-efxsGURgW/view?usp=drive_link
